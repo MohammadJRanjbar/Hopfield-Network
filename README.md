@@ -14,5 +14,5 @@ p1=np.array([[1,-1]
 You can run this code from your terminal/prompt/shell with typing
 
 ```python
-python hop.py
+Python hop.py
 ```
