@@ -1,7 +1,7 @@
 # Introduction
 A Hopfield network is a form of recurrent artificial neural networkHopfield networks serve as content-addressable ("associative") memory systems with binary threshold nodes.
 
-<img src="Image/Hopfield.jpg" width="300" class="center" />
+<img src="Image/hopfield.jpg" width="400" class="center" />
 
 # Code:
 The network is trained with these two patterns, and any patters that the users gives will be associated to one of these patterns.
